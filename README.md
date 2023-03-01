@@ -12,3 +12,4 @@ Learning `Go` with test (TDD)
 | [Chapter 4](./array-slices)             | Arrays and Slices                |
 | [Chapter 5](./struct-methods-interface) | Structs, Methods, and Interfaces |
 | [Chapter 6](./pointers-errors)          | Pointers and Errors              |
+| [Chapter 7](./maps)                     | Maps                             |
