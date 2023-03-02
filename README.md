@@ -13,3 +13,5 @@ Learning `Go` with test (TDD)
 | [Chapter 5](./struct-methods-interface) | Structs, Methods, and Interfaces |
 | [Chapter 6](./pointers-errors)          | Pointers and Errors              |
 | [Chapter 7](./maps)                     | Maps                             |
+| [Chapter 8](./dependency-injection)     | Dependency Injection             |
+| [Chapter 9](./mocking)                  | Mocking                          |
